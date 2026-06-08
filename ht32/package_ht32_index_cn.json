@@ -1,0 +1,290 @@
+{
+  "packages": [
+    {
+      "name":"HT32",
+      "websiteURL": "https://www.holtek.com.tw/web/guest/producthome",
+      "maintainer": "Holtek Semiconductor Inc.",
+      "email": "",
+      "help": { "online": "https://www.holtek.com" },
+
+      "platforms": [
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.0.5",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.0.5.zip",
+          "archiveFileName": "ht32-arduino-1.0.5.zip",
+          "checksum": "SHA-256:105512EE9AC752285F0A8A21CD7F229D32580EC3987CD04E11206A53F747221B",
+          "size": "8258248",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"},
+            {"name": "ESK32-30501 (HT32F52352 Starter Kit)"},
+            {"name": "ESK32-30105 (HT32F12366 Starter Kit)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.0.6",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.0.6.zip",
+          "archiveFileName": "ht32-arduino-1.0.6.zip",
+          "checksum": "SHA-256:fce72e1c32528c2e2546c8a4948957154a4a76007e6c714fad74c7aab297ee73",
+          "size": "8749789",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"},
+            {"name": "ESK32-30501 (HT32F52352 Starter Kit)"},
+            {"name": "ESK32-30105 (HT32F12366 Starter Kit)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.0.7",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.0.7.zip",
+          "archiveFileName": "ht32-arduino-1.0.7.zip",
+          "checksum": "SHA-256:9cb4cb0a0ede7662fd0b0d5b0f8b046f609604edb89fda73f2155b8accf31b68",
+          "size": "8459298",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.0.8",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.0.8.zip",
+          "archiveFileName": "ht32-arduino-1.0.8.zip",
+          "checksum": "SHA-256:071f8e20c25cc8dd635cca640d91f33ff95a141b3b57b7f08e39c12530776906",
+          "size": "8465636",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.0.9",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.0.9.zip",
+          "archiveFileName": "ht32-arduino-1.0.9.zip",
+          "checksum": "SHA-256:9d9ff5939a3b8639b42449c6acd4e9f80bae0f47d960cd1c0589cb6a527bc06a",
+          "size": "8513488",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.0.10",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.0.10.zip",
+          "archiveFileName": "ht32-arduino-1.0.10.zip",
+          "checksum": "SHA-256:9586a0d80341e805fba04d1b94b3bc0be3dd13e190b0abe5b6ed895d79e92b1b",
+          "size": "8554465",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.1.0.zip",
+          "archiveFileName": "ht32-arduino-1.1.0.zip",
+          "checksum": "SHA-256:2a53dcc6f0d8c1acf954630f4f439d5d00ba96d588ffc959a6ff87f5f955fe94",
+          "size": "8603354",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"},
+            {"name": "BM18B367A (BMduino-Nano HT32F52367)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        },
+        {
+          "name": "Holtek HT32 Boards (32-bits ARM Cortex-M0+/M3/M4)",
+          "architecture": "HT32",
+          "version": "1.3.0",
+          "category": "Contributed",
+          "url": "https://gitee.com/ht32-holtek/arduino/raw/main/ht32/packages/ht32-arduino-1.3.0.zip",
+          "archiveFileName": "ht32-arduino-1.3.0.zip",
+          "checksum": "SHA-256:97c722079b151ee986df96aa76976cba71ba2cf021c01f0e1d6a33168d15e999",
+          "size": "8604795",
+
+          "boards": [
+            {"name": "BM53A367A (BMduino-UNO HT32F52367)"},
+            {"name": "BM18B367A (BMduino-Nano HT32F52367)"}
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            }
+          ]
+        }
+      ],
+
+      "tools": [
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "4.8.3-2014q1",
+          "systems": [
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-arm.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-arm.tar.bz2",
+              "checksum": "SHA-256:ebe96b34c4f434667cab0187b881ed585e7c7eb990fe6b69be3c81ec7e11e845",
+              "size": "44423906"
+            },
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+              "checksum": "SHA-256:fd8c111c861144f932728e00abd3f7d1107e186eb9cd6083a54c7236ea78b7c2",
+              "size": "84537449"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
+              "size": "52518522"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
+              "checksum": "SHA-256:d23f6626148396d6ec42a5b4d928955a703e0757829195fa71a939e5b86eecf6",
+              "size": "51395093"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
+              "checksum": "SHA-256:ba1994235f69c526c564f65343f22ddbc9822b2ea8c5ee07dd79d89f6ace2498",
+              "size": "51029223"
+            }
+          ]
+        },
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "7-2017q4",
+          "systems": [
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "http://downloads.arduino.cc/tools/gcc-arm-none-eabi-7-2019-q4-major-linuxarm.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-7-2019-q4-major-linuxarm.tar.bz2",
+              "checksum": "SHA-256:34180943d95f759c66444a40b032f7dd9159a562670fc334f049567de140c51b",
+              "size": "96613739"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "http://downloads.arduino.cc/tools/gcc-arm-none-eabi-7-2018-q2-update-linuxarm64.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-7-2018-q2-update-linuxarm64.tar.bz2",
+              "checksum": "SHA-256:6fb5752fb4d11012bd0a1ceb93a19d0641ff7cf29d289b3e6b86b99768e66f76",
+              "size": "99558726"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "http://downloads.arduino.cc/tools/gcc-arm-none-eabi-7-2017-q4-major-win32-arduino1.zip",
+              "archiveFileName": "gcc-arm-none-eabi-7-2017-q4-major-win32-arduino1.zip",
+              "checksum": "SHA-256:96dd0091856f4d2eb21046eba571321feecf7d50b9c156f708b2a8b683903382",
+              "size": "131761924"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "http://downloads.arduino.cc/tools/gcc-arm-none-eabi-7-2017-q4-major-mac.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-7-2017-q4-major-mac.tar.bz2",
+              "checksum": "SHA-256:89b776c7cf0591c810b5b60067e4dc113b5b71bc50084a536e71b894a97fdccb",
+              "size": "104550003"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/tools/gcc-arm-none-eabi-7-2017-q4-major-linux64.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-7-2017-q4-major-linux64.tar.bz2",
+              "checksum": "SHA-256:96a029e2ae130a1210eaa69e309ea40463028eab18ba19c1086e4c2dafe69a6a",
+              "size": "99857645"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/tools/gcc-arm-none-eabi-7-2018-q2-update-linux32.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-7-2018-q2-update-linux32.tar.bz2",
+              "checksum": "SHA-256:090a0bc2b1956bc49392dff924a6c30fa57c88130097b1972204d67a45ce3cf3",
+              "size": "97427309"
+            }
+          ]
+        }
+      ],
+      "websiteURL": "https://www.holtek.com"
+
+    }
+  ]
+}
