@@ -2,10 +2,10 @@
   "packages": [
     {
       "name":"HT32",
-      "websiteURL": "https://www.holtek.com.tw/web/guest/producthome",
+      "websiteURL": "https://www.holtek.com.cn/web/guest/producthome",
       "maintainer": "Holtek Semiconductor Inc.",
       "email": "",
-      "help": { "online": "https://www.holtek.com" },
+      "help": { "online": "https://www.holtek.com.cn" },
 
       "platforms": [
         {
